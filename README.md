@@ -1,2 +1,2 @@
-"# J2YB" 
+# J2YB
 Journey to your best program
